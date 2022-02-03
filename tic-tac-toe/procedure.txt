@@ -1,0 +1,3 @@
+windows+r
+cmd
+pip intsall pygame
